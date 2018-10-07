@@ -1,0 +1,57 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Отсортровать таблицу",
+      "description": "Отсортровать таблицу",
+      "priority": 0,
+      "priority_text": "Низкий",
+      "create_date": "2018-10-05T12:45:45",
+      "elapsed_time": "30 минут",
+      "planned_time": "45 минут",
+      "status": 0,
+      "status_text": "План",
+      "user": 0
+    },
+    {
+      "id": 2,
+      "name": "Создать таблицу",
+      "description": "Создать таблицу",
+      "priority": 1,
+      "priority_text": "Средний",
+      "create_date": "2018-10-05T12:45:45",
+      "elapsed_time": "",
+      "planned_time": "1 часа",
+      "status": 2,
+      "status_text": "Готово",
+      "user": 0
+    },
+    {
+      "id": 3,
+      "name": "Создать приложение",
+      "description": "",
+      "priority": 2,
+      "priority_text": "Высокий",
+      "create_date": "2018-10-05T12:45:45",
+      "elapsed_time": "",
+      "planned_time": "",
+      "status": 1,
+      "status_text": "В процессе",
+      "user": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 0,
+      "name": "admin",
+      "email": "admin@mail.ru",
+      "password": "123456"
+    },
+    {
+      "id": 1,
+      "name": "test",
+      "email": "test@mail.ru",
+      "password": "123456"
+    }
+  ]
+}
